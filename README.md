@@ -1,6 +1,8 @@
 
 # Advanced Todo App v3 - Calendar Scheduler Edition
 
+This project demonstrates proficiency in modern web development, including frontend frameworks, backend APIs, database design, authentication, containerization, and UI/UX design principles.
+
 ## ✨ New Features
 
 ### Beautiful Modern UI
